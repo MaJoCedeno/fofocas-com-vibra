@@ -1,4 +1,4 @@
-# Fofocas com Vibra — Gerador de Sessões
+# Fofocas com Vibra | Gerador de Sessões
 
 Este repositório contém o template, o script e a documentação usados para
 criar as páginas interativas das aulas de português conversacional do
