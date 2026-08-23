@@ -101,7 +101,6 @@ O Claude vai construir o ficheiro de conteúdo (JSON), correr o script
 
 - **Rápido, para a aula:** enviar o ficheiro HTML por WhatsApp ou email —
   abre em qualquer navegador, sem internet.
-- **Link permanente:** arrastar o ficheiro para [app.netlify.com/drop](https://app.netlify.com/drop).
-- **Site do curso, com todas as sessões:** publicar os ficheiros HTML neste
-  mesmo repositório e ativar o GitHub Pages, para ficarem todos acessíveis
+- **Site do curso, com todas as sessões:** publicar os ficheiros HTML no
+  repositório da pagina oficial de VIBRA e ativar o GitHub Pages, para ficarem todos acessíveis
   num único URL que cresce a cada sessão.
